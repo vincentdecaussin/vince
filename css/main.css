@@ -56,7 +56,7 @@ body {
 }
 p {
   text-align:center;
-  font-size: small;
+  font-size: medium;
 }
 .rotate90 {
     -webkit-transform: rotate(90deg);
